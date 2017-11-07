@@ -1,3 +1,6 @@
 *.pyc
 .idea
 notebooks/.ipynb_checkpoints/
+/data/cars_train/
+/data/cars_test/
+*.npy
