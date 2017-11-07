@@ -1,2 +1,3 @@
 *.pyc
 .idea
+notebooks/.ipynb_checkpoints/
