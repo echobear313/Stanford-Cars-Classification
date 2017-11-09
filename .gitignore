@@ -4,3 +4,8 @@ notebooks/.ipynb_checkpoints/
 /data/cars_train/
 /data/cars_test/
 *.npy
+*.caffemodel
+*.solverstate
+data/test_lmdb/
+data/test_lmdb/
+data/train_lmdb/

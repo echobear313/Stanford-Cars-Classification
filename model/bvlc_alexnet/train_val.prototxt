@@ -12,7 +12,7 @@ layer {
     crop_size: 227
   }
   data_param {
-    source: "/home/1tb/cars-data/train_lmdb"
+    source: "../../data/train_lmdb"
     batch_size: 256
     backend: LMDB
   }
@@ -30,7 +30,7 @@ layer {
     crop_size: 227
   }
   data_param {
-    source: "/home/1tb/cars-data/test_lmdb"
+    source: "../../data/test_lmdb"
     batch_size: 50
     backend: LMDB
   }
